@@ -1,0 +1,28 @@
+body {
+    background-image: url(imagenes/lite.jpg);
+    background-size: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+
+h1 {
+    color: #d60a0a;
+}
+/* Este es un comentario en CSS */
+p {
+    font-size: 18px;
+    color: #ffffff;
+}
+#OAGG {
+    color : #8400ff;
+}
+h3{
+    color : #8400ff;
+    
+}
